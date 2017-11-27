@@ -1,5 +1,5 @@
 ## RETO UX 2
-** 1. Identifica los elementos de navegación en los siguientes sites **
+**1. Identifica los elementos de navegación en los siguientes sites**
 
 
 ### Breather
